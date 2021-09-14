@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Hacktiv8-Latihan4(Java)Berkurang"
